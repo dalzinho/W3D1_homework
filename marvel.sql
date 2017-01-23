@@ -1,6 +1,6 @@
-DROP TABLE 'attendances';
-DROP TABLE 'movies';
-DROP TABLE 'people';
+DROP TABLE attendances;
+DROP TABLE movies;
+DROP TABLE people;
 
 CREATE TABLE movies (
 	id SERIAL8 PRIMARY KEY,
